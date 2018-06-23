@@ -15,7 +15,6 @@ import (
 	"log"
 	"net/http"
 	"reflect"
-
 	"strconv"
 )
 
@@ -40,7 +39,7 @@ const (
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL      = "http://104.196.179.197:9200"
+	ES_URL      = "http://35.231.1.233:9200"
 	BUCKET_NAME = "post-images-206507"
 	PROJECT_ID  = "turing-lyceum-206507"
 	BT_INSTANCE = "around-post"
